@@ -1,6 +1,5 @@
 # Dotslash-5.0
-For the System 
-#**Farmer's Friend**<br>
+For the System ****Farmer's Friend****<br>
 This system will give support to fruitful farming.<br>
 First of all this system has two parts.<br>
 
