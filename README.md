@@ -1,10 +1,11 @@
 # Dotslash-5.0
-For the System **Farmer's Friend**<br>
+For the System 
+#**Farmer's Friend**<br>
 This system will give support to fruitful farming.<br>
 First of all this system has two parts.<br>
 
 1)Hardware : **Nutritions Data Collector**<br>
- →We will use it to measure neutrisions from different parts of field and put a **Indicator of no.**<br>
+ →We will use it to measure neutrisions from different parts of field and put a **signbord of no.** to there.(to get specific name to that area)<br>
  →This Hardwear is IOT based so,The data will be directly sent to the server.<br>
 2)Software : **Crop Predictor**<br>
 →Now our app/website will analyze the data(get through Hardwear) and check for suitable crops according to the weather(that is given by Farmer).<br>
