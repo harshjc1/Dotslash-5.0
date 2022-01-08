@@ -1,7 +1,7 @@
 # Dotslash-5.0
 For the System **Farmer's Friend**
 This system will give support to fruitful farming.
-First of all this system has two parts.
+First of all this system has two parts.<br>
 1)Hardware : **Nutritions Data Collector**
  →We will use it to measure neutrisions from different parts of field and put a **Indicator of no.**
  →This Hardwear is IOT based so,The data will be directly sent to the server.
