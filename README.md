@@ -11,3 +11,6 @@ First of all this system has two parts.<br>
 
 →When a farmer selects a crop then our program will help him to give suggestions for nutritions that should be added to specific parts of the field for better growth of crops.<br>
 →The Farmer can go through the whole procedure the 2nd time after he/she starts farming the crop to get continuous knowledge of soil and guidelines for fertilizing the soil.
+
+**WEBSITE LINK:point_down:**<br>
+https://sites.google.com/view/friend2farmers
