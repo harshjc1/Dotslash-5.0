@@ -19,15 +19,15 @@ https://sites.google.com/view/friend2farmers/
 
 we have created this site in the Google Sites;
 This website contains 3 pages:<br>
-1st page :it's Home Page and contain some information regarding this site;<br>
-2nd page :This page contain the soil fertility analysis and guidelines;<br>
-3rd page :This page contain the Crop prediction procedure;<br>
+1st page :It's Home Page and Contain some Information regarding our site;<br>
+2nd page :This page contain the Soil Fertility Analysis and Guidelines;<br>
+3rd page :This page contain the Crop Prediction Procedure;<br>
 
-**working of fertility and guidelines :** we don't know how to generate the report so we take help of graphical representation through Graph of what we are guiding and what we have analysed.in this first of all we have assumed that there is a IOT based devices which will take soil fertility data and send it to google sheets.the google sheet will generate the graph of it and start analyzing in this phase we took particular average of the factors and check for is the value of factor is less than average for a particular part then we will guide to farmer to add that factor of fertility to that part of farm through fertilizer.
+**Working of Fertility and Guidelines :** We don't know how to generate the report so we take help of graphical representation through Graph of what we are guiding and what we have analysed.In this,First of all we have assumed that there is a IOT based devices which will take soil Fertility data and send it to google sheets.The google sheet will generate the graph of it and start analyzing in this phase we took particular average of the factors and check for is the value of factor is less than average for a particular part then we will guide the farmer to add that factor of fertility to that part of farm through fertilizer.
 
-**working of Crop prediction**
+**Working of Crop Prediction :**
 
-# Introduction of developer team
-We are the pre final year students of BVM.We are from electronics background.we don't have much idea regarding website or app development but we have tried to make one website for farmers we know that it's can be improve and we will definitely do it in future.yes we also don't know how to use this platform to upload projects because we rarely use this platform.But for now we  follow **just do it....**  
+# Introduction of Developer Team
+We are the pre final year students of BVM.We are from electronics background.We don't have much idea regarding website or app development but We have tried to make one website for farmers we know that it's can be improve and we will definitely do it in future.yes we also don't know how to use this platform to upload projects because we rarely use this platform.But for now we follow **just do it....**  
 
 
