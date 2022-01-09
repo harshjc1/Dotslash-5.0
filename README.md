@@ -13,4 +13,4 @@ First of all this system has two parts.<br>
 →The Farmer can go through the whole procedure the 2nd time after he/she starts farming the crop to get continuous knowledge of soil and guidelines for fertilizing the soil.
 
 **WEBSITE LINK:point_down:**<br>
-https://sites.google.com/view/friend2farmers
+https://sites.google.com/view/friend2farmers/
